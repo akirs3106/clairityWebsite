@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #fff;
+  background: #dfdfdf;
   color: #000000;
   font-family: "Open Sans", sans-serif;
   overflow-x: hidden;
@@ -388,7 +388,7 @@ h6 {
 }
 
 section {
-  background-color: #bdbdbd;
+  background-color: #dfdfdf;
 }
 
 /*--------------------------------------------------------------
@@ -696,7 +696,7 @@ section {
 /* Product Featuress Section
 --------------------------------*/
 #features {
-  background: #bdbdbd;
+  background: #dfdfdf;
   padding: 60px 0 0 0;
   overflow: hidden;
 }
@@ -1168,7 +1168,7 @@ section {
 /* Gallery Section
 --------------------------------*/
 #gallery {
-  background: #fff;
+  background: #dfdfdf;
   padding: 60px 0 0 0;
   overflow: hidden;
 }
